@@ -1,0 +1,6 @@
+[20-Jan-2016 16:29:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/queensw/public_html/admin/vendor/MongoLite/Database.php(82) : runtime-created function on line 1
+[20-Jan-2016 16:29:15 UTC] PHP Fatal error:  Function name must be a string in /home/queensw/public_html/admin/vendor/MongoLite/Database.php on line 99
+[20-Jan-2016 16:29:59 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/queensw/public_html/admin/vendor/MongoLite/Database.php(82) : runtime-created function on line 1
+[20-Jan-2016 16:29:59 UTC] PHP Fatal error:  Function name must be a string in /home/queensw/public_html/admin/vendor/MongoLite/Database.php on line 99
+[20-Jan-2016 16:30:18 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/queensw/public_html/admin/vendor/MongoLite/Database.php(82) : runtime-created function on line 1
+[20-Jan-2016 16:30:18 UTC] PHP Fatal error:  Function name must be a string in /home/queensw/public_html/admin/vendor/MongoLite/Database.php on line 99
