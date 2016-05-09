@@ -219,7 +219,7 @@
 
                         <div class="form-group">
                             <div class="col-md-push-1 col-md-10">
-                                    <input type="email" name="form[email]" class="form-control center-block text-center" id="email" placeholder="" value="queenway99@mail.com" required readonly="true">
+                                    <input type="email" name="form[email]" class="form-control center-block text-center" id="email" placeholder="" value="queenway99@gmail.com" required readonly="true">
                             </div>
                         </div>
                         <!-- <div class="row"><button type="submit" class="btn brown-btn">Submit</button></div> -->
